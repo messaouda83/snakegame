@@ -1,0 +1,15 @@
+/* *{
+    margin:0;
+    padding: 0;
+} */
+body {
+    padding:150px;
+    overflow: hidden;
+}
+.plateau {
+    margin:0 auto;
+    width:500px;
+    height:500px;
+    background-color:#2980b9 ;
+   
+}
